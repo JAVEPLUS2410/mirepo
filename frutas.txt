@@ -3,3 +3,5 @@ Manzana
 Banana
 Manzana
 Banana
+Naranja
+Fresa
